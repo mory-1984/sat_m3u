@@ -562,6 +562,56 @@ rtsp://@satip:554/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off
 rtsp://@satip:554/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2191,112,2190,
 #EXTINF:0 group-title="Radio",Rotana FM KSA
 rtsp://@satip:554/?src=1&freq=12226&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2160,114,2160,
+#EXTINF:0 group-title="TV",Nilesat Promo HD
+rtsp://@satip:554/?src=1&freq=11804&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,1051,101,1001,
+#EXTINF:0 group-title="TV",Al Shams Satellite Channel
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2111,801,2101,
+#EXTINF:0 group-title="TV",Oscar
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2122,802,2102,
+#EXTINF:0 group-title="TV",Al Jomhoria Yemen TV
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2104,803,2105,
+#EXTINF:0 group-title="TV",Al Masriyah
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2004,804,2010,
+#EXTINF:0 group-title="TV",Nile TV International
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2117,805,2116,
+#EXTINF:0 group-title="TV",Althanya
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2119,807,2118,
+#EXTINF:0 group-title="TV",Panorama drama
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2013,808,2012,
+#EXTINF:0 group-title="TV",Panorama Drama 2
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2017,809,2016,
+#EXTINF:0 group-title="TV",Panorama Film
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2019,810,2018,
+#EXTINF:0 group-title="TV",Panorama Food
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2107,812,2106,
+#EXTINF:0 group-title="TV",Alnas
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2113,822,2112,
+#EXTINF:0 group-title="TV",Al Nada TV
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2316,813,2315,
+#EXTINF:0 group-title="TV",Al Anbar
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2001,806,2000,
+#EXTINF:0 group-title="TV",Al Majd 3
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2311,800,2310,
+#EXTINF:0 group-title="Radio",Radio Hits
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2110,816,2110,
+#EXTINF:0 group-title="Radio",Mega FM
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2006,818,2006,
+#EXTINF:0 group-title="Radio",Nagham FM
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2030,819,2030,
+#EXTINF:0 group-title="Radio",Sha3by FM
+rtsp://@satip:554/?src=1&freq=12054&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2040,820,2040,
+#EXTINF:0 group-title="TV",Extra News HD
+rtsp://@satip:554/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2302,101,2301,
+#EXTINF:0 group-title="TV",Libya Sport 2 HD
+rtsp://@satip:554/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2305,102,2304,
+#EXTINF:0 group-title="TV",Libya Education 2
+rtsp://@satip:554/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2308,103,2307,
+#EXTINF:0 group-title="TV",Madrastna
+rtsp://@satip:554/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2311,104,2310,
+#EXTINF:0 group-title="TV",Al Wathaeqya
+rtsp://@satip:554/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2317,106,2316,
+#EXTINF:0 group-title="TV",Syria News
+rtsp://@satip:554/?src=1&freq=12303&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2324,108,2323,
 #EXTINF:0 group-title="TV",Al Maghribia
 rtsp://@satip:554/?src=1&freq=10727&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,4723,4721,4722,
 #EXTINF:0 group-title="TV",Asil TV
