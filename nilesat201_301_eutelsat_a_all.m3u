@@ -1240,28 +1240,6 @@ rtsp://@satip:554/?src=1&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off
 rtsp://@satip:554/?src=1&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,3051,3052,3050,3051,
 #EXTINF:0 group-title="TV",eClutch Live
 rtsp://@satip:554/?src=1&freq=11526&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,3061,3062,3060,3061,
-#EXTINF:0 group-title="TV",Al Hadath
-rtsp://@satip:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,101,102,100,101,
-#EXTINF:0 group-title="TV",Al Arabiya
-rtsp://@satip:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,201,202,200,201,
-#EXTINF:0 group-title="TV",MBC 5
-rtsp://@satip:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,301,302,300,301,
-#EXTINF:0 group-title="TV",MBC 4
-rtsp://@satip:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,401,402,400,401,
-#EXTINF:0 group-title="TV",MBC 3
-rtsp://@satip:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,501,502,500,501,
-#EXTINF:0 group-title="TV",MBC Action
-rtsp://@satip:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,601,602,600,601,
-#EXTINF:0 group-title="TV",MBC 2
-rtsp://@satip:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,701,702,700,701,
-#EXTINF:0 group-title="TV",MBC Max
-rtsp://@satip:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,801,802,800,801,
-#EXTINF:0 group-title="TV",MBC Bollywood
-rtsp://@satip:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,901,902,900,901,
-#EXTINF:0 group-title="TV",MBC Drama
-rtsp://@satip:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,1001,1002,1000,1001,
-#EXTINF:0 group-title="TV",Wanasah
-rtsp://@satip:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,1201,1202,1200,1201,
 #EXTINF:0 group-title="TV",Gali Kurdistan TV
 rtsp://@satip:554/?src=1&freq=11564&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,6012,6013,6011,6012,
 #EXTINF:0 group-title="TV",Kirkuk TV
@@ -1518,3 +1496,35 @@ rtsp://@satip:554/?src=1&freq=12417&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&plts=of
 rtsp://@satip:554/?src=1&freq=12417&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&plts=off&ro=0.35&fec=34&pids=0,603,600,603,
 #EXTINF:0 group-title="Radio",Noor Dubai Radio
 rtsp://@satip:554/?src=1&freq=12417&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&plts=off&ro=0.35&fec=34&pids=0,621,620,621,
+#EXTINF:0 group-title="TV",Al Hadath
+rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,201,202,200,201,
+#EXTINF:0 group-title="TV",Al Arabiya
+rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,301,302,300,301,
+#EXTINF:0 group-title="TV",MBC
+rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,401,402,400,401,
+#EXTINF:0 group-title="TV",MBC 4
+rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,501,502,500,501,
+#EXTINF:0 group-title="TV",MBC Drama
+rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,601,602,600,601,
+#EXTINF:0 group-title="TV",Citrus TV
+rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,701,702,700,701,
+#EXTINF:0 group-title="TV",MBC Bollywood
+rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,801,802,800,801,
+#EXTINF:0 group-title="TV",MBC 2
+rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,901,902,900,901,
+#EXTINF:0 group-title="TV",MBC Action
+rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,1001,1002,1000,1001,
+#EXTINF:0 group-title="TV",MBC 3
+rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,1101,1102,1100,1101,
+#EXTINF:0 group-title="TV",Al Arabiya Business
+rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,1201,1202,1200,1201,
+#EXTINF:0 group-title="TV",MBC Masr
+rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,2001,2002,2000,2001,
+#EXTINF:0 group-title="Radio",MBC FM
+rtsp://@satip:554/?src=1&freq=11471&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,1401,1400,1401,
+#EXTINF:0 group-title="Radio",Panorama FM
+rtsp://@satip:554/?src=1&freq=11471&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,1501,1500,1501,
+#EXTINF:0 group-title="Radio",Al Arabiya FM
+rtsp://@satip:554/?src=1&freq=11471&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,1601,1600,1601,
+#EXTINF:0 group-title="Radio",MBC Loud FM
+rtsp://@satip:554/?src=1&freq=11471&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,1801,1800,1801,

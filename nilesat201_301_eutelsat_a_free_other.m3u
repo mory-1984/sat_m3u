@@ -1150,28 +1150,6 @@ rtsp://@192.168.1.3:554/?src=1&freq=11514&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&f
 rtsp://@192.168.1.3:554/?src=1&freq=11514&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&fec=23&pids=0,1901,1902,900,1901,
 #EXTINF:0 group-title="Radio",Medi1 Radio Maghreb
 rtsp://@192.168.1.3:554/?src=1&freq=11514&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&fec=23&pids=0,1001,1000,1001,
-#EXTINF:0 group-title="TV",Al Hadath
-rtsp://@192.168.1.3:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,101,102,100,101,
-#EXTINF:0 group-title="TV",Al Arabiya
-rtsp://@192.168.1.3:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,201,202,200,201,
-#EXTINF:0 group-title="TV",MBC 5
-rtsp://@192.168.1.3:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,301,302,300,301,
-#EXTINF:0 group-title="TV",MBC 4
-rtsp://@192.168.1.3:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,401,402,400,401,
-#EXTINF:0 group-title="TV",MBC 3
-rtsp://@192.168.1.3:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,501,502,500,501,
-#EXTINF:0 group-title="TV",MBC Action
-rtsp://@192.168.1.3:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,601,602,600,601,
-#EXTINF:0 group-title="TV",MBC 2
-rtsp://@192.168.1.3:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,701,702,700,701,
-#EXTINF:0 group-title="TV",MBC Max
-rtsp://@192.168.1.3:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,801,802,800,801,
-#EXTINF:0 group-title="TV",MBC Bollywood
-rtsp://@192.168.1.3:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,901,902,900,901,
-#EXTINF:0 group-title="TV",MBC Drama
-rtsp://@192.168.1.3:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,1001,1002,1000,1001,
-#EXTINF:0 group-title="TV",Wanasah
-rtsp://@192.168.1.3:554/?src=1&freq=11559&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,1201,1202,1200,1201,
 #EXTINF:0 group-title="TV",Gali Kurdistan TV
 rtsp://@192.168.1.3:554/?src=1&freq=11564&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&fec=34&pids=0,6012,6013,6011,6012,
 #EXTINF:0 group-title="TV",Kirkuk TV
@@ -1412,3 +1390,35 @@ rtsp://@192.168.1.3:554/?src=1&freq=12417&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&f
 rtsp://@192.168.1.3:554/?src=1&freq=12417&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&fec=34&pids=0,603,600,603,
 #EXTINF:0 group-title="Radio",Noor Dubai Radio
 rtsp://@192.168.1.3:554/?src=1&freq=12417&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&fec=34&pids=0,621,620,621,
+#EXTINF:0 group-title="TV",Al Hadath
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,201,202,200,201,
+#EXTINF:0 group-title="TV",Al Arabiya
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,301,302,300,301,
+#EXTINF:0 group-title="TV",MBC
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,401,402,400,401,
+#EXTINF:0 group-title="TV",MBC 4
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,501,502,500,501,
+#EXTINF:0 group-title="TV",MBC Drama
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,601,602,600,601,
+#EXTINF:0 group-title="TV",Citrus TV
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,701,702,700,701,
+#EXTINF:0 group-title="TV",MBC Bollywood
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,801,802,800,801,
+#EXTINF:0 group-title="TV",MBC 2
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,901,902,900,901,
+#EXTINF:0 group-title="TV",MBC Action
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,1001,1002,1000,1001,
+#EXTINF:0 group-title="TV",MBC 3
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,1101,1102,1100,1101,
+#EXTINF:0 group-title="TV",Al Arabiya Business
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,1201,1202,1200,1201,
+#EXTINF:0 group-title="TV",MBC Masr
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&fec=56&pids=0,2001,2002,2000,2001,
+#EXTINF:0 group-title="Radio",MBC FM
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=H&msys=DVBS&mtype=QPSK&sr=27500&fec=34&pids=0,1401,1400,1401,
+#EXTINF:0 group-title="Radio",Panorama FM
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=H&msys=DVBS&mtype=QPSK&sr=27500&fec=34&pids=0,1501,1500,1501,
+#EXTINF:0 group-title="Radio",Al Arabiya FM
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=H&msys=DVBS&mtype=QPSK&sr=27500&fec=34&pids=0,1601,1600,1601,
+#EXTINF:0 group-title="Radio",MBC Loud FM
+rtsp://@192.168.1.3:554/?src=1&freq=11471&pol=H&msys=DVBS&mtype=QPSK&sr=27500&fec=34&pids=0,1801,1800,1801,
