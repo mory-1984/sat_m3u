@@ -1496,6 +1496,502 @@ rtsp://@satip:554/?src=1&freq=12417&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&plts=of
 rtsp://@satip:554/?src=1&freq=12417&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&plts=off&ro=0.35&fec=34&pids=0,603,600,603,
 #EXTINF:0 group-title="Radio",Noor Dubai Radio
 rtsp://@satip:554/?src=1&freq=12417&pol=H&msys=DVBS2&mtype=8PSK&sr=30000&plts=off&ro=0.35&fec=34&pids=0,621,620,621,
+#EXTINF:0 group-title="TV",Al Araby TV
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5192,5193,5191,5192,
+#EXTINF:0 group-title="TV",Al Hiwar TV
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5202,5203,5201,5202,
+#EXTINF:0 group-title="TV",Syria Satellite Channel
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5212,5213,5211,5212,
+#EXTINF:0 group-title="TV",Shoor TV
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5222,5223,5221,5222,
+#EXTINF:0 group-title="TV",Alkarbalaeia TV
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5232,,5231,5232,
+#EXTINF:0 group-title="TV",Marjaeyat 2
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5252,5253,5251,5252,
+#EXTINF:0 group-title="TV",Alawla Iraq TV
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5272,5273,5271,5272,
+#EXTINF:0 group-title="TV",1 Iraq TV
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5282,5283,5281,5282,
+#EXTINF:0 group-title="TV",Salam
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5292,5293,5291,5292,
+#EXTINF:0 group-title="TV",Febrauary TV
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5322,5323,5321,5322,
+#EXTINF:0 group-title="TV",Al Aqila TV
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5452,5453,5451,5452,
+#EXTINF:0 group-title="TV",Falastini.tv 
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5682,5683,5681,5682,
+#EXTINF:0 group-title="TV",Shihab
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5732,5733,5731,5732,
+#EXTINF:0 group-title="TV",Al Anwar
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5752,5753,5751,5752,
+#EXTINF:0 group-title="TV",Fursan Aliraq TV
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5772,5773,5771,5772,
+#EXTINF:0 group-title="TV",Al Shaaer
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5782,5783,5781,5782,
+#EXTINF:0 group-title="TV",Al Baghdadia
+rtsp://@satip:554/?src=1&freq=10971&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5792,5793,5791,5792,
+#EXTINF:0 group-title="TV",Al Jazeera Satellite Channel
+rtsp://@satip:554/?src=1&freq=10971&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,512,650,256,512,
+#EXTINF:0 group-title="TV",Al Jazeera Mubasher
+rtsp://@satip:554/?src=1&freq=10971&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,513,660,257,513,
+#EXTINF:0 group-title="TV",Al Jazeera English
+rtsp://@satip:554/?src=1&freq=10971&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,514,670,258,514,
+#EXTINF:0 group-title="TV",Al Jazeera Documentary
+rtsp://@satip:554/?src=1&freq=10971&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,517,700,261,517,
+#EXTINF:0 group-title="TV",Al Jazeera Mubasher 2
+rtsp://@satip:554/?src=1&freq=10971&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,520,730,266,520,
+#EXTINF:0 group-title="TV",TEST
+rtsp://@satip:554/?src=1&freq=10971&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,521,740,267,521,
+#EXTINF:0 group-title="Radio",Sout Al Rayyan
+rtsp://@satip:554/?src=1&freq=10971&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,770,264,213,
+#EXTINF:0 group-title="Radio",Sout Al-Islam Doha
+rtsp://@satip:554/?src=1&freq=10971&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,780,265,525,
+#EXTINF:0 group-title="TV",beIN Sports 1 HD
+rtsp://@satip:554/?src=1&freq=11012&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,411,412,410,411,
+#EXTINF:0 group-title="TV",beIN Sports 2 HD
+rtsp://@satip:554/?src=1&freq=11012&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,421,422,420,421,
+#EXTINF:0 group-title="TV",beIN Sports 3 HD
+rtsp://@satip:554/?src=1&freq=11012&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,431,432,430,431,
+#EXTINF:0 group-title="TV",beIN Sports 5 HD
+rtsp://@satip:554/?src=1&freq=11012&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,441,442,440,441,
+#EXTINF:0 group-title="TV",beIN Sports Max 3 HD
+rtsp://@satip:554/?src=1&freq=11012&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,451,452,450,451,
+#EXTINF:0 group-title="TV",Sharjah HD
+rtsp://@satip:554/?src=1&freq=11013&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,100,110,130,100,
+#EXTINF:0 group-title="TV",Sharjah TV
+rtsp://@satip:554/?src=1&freq=11013&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,310,311,315,310,
+#EXTINF:0 group-title="TV",Sharqiya from Kalba HD
+rtsp://@satip:554/?src=1&freq=11013&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,64,66,2048,64,
+#EXTINF:0 group-title="TV",Sharqiya from Kalba
+rtsp://@satip:554/?src=1&freq=11013&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,330,331,335,330,
+#EXTINF:0 group-title="TV",Al Wousta from Al Dhaid HD
+rtsp://@satip:554/?src=1&freq=11013&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,350,351,355,350,
+#EXTINF:0 group-title="TV",Sharjah Sport HD
+rtsp://@satip:554/?src=1&freq=11013&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,200,210,230,200,
+#EXTINF:0 group-title="TV",Sharjah Sport
+rtsp://@satip:554/?src=1&freq=11013&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,320,321,325,320,
+#EXTINF:0 group-title="Radio",Sharjah Radio
+rtsp://@satip:554/?src=1&freq=11013&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,120,140,120,
+#EXTINF:0 group-title="Radio",Sharjah Quran
+rtsp://@satip:554/?src=1&freq=11013&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,125,132,125,
+#EXTINF:0 group-title="Radio",Pulse95 SHJ
+rtsp://@satip:554/?src=1&freq=11013&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,126,134,126,
+#EXTINF:0 group-title="Radio",WATAR SHJ
+rtsp://@satip:554/?src=1&freq=11013&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,150,135,150,
+#EXTINF:0 group-title="TV",KTV 1 HD
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,102,103,201,102,
+#EXTINF:0 group-title="TV",KTV 2 HD
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,34,40,202,34,
+#EXTINF:0 group-title="TV",HD-KTV Sports
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,112,113,203,112,
+#EXTINF:0 group-title="TV",KTV Sport Plus HD
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,43,297,204,43,
+#EXTINF:0 group-title="TV",KTV Ethraa HD
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,41,293,205,41,
+#EXTINF:0 group-title="TV",KTV Al Arabi HD
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,46,274,206,46,
+#EXTINF:0 group-title="TV",Kuwait TV
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,53,54,56,53,
+#EXTINF:0 group-title="TV",Al Qurain HD
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,50,49,52,50,
+#EXTINF:0 group-title="Radio",Kuwait Radio 1
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,63,100,63,
+#EXTINF:0 group-title="Radio",Kuwait Radio 2
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,61,200,61,
+#EXTINF:0 group-title="Radio",Kuwait HolyQuran
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,65,300,65,
+#EXTINF:0 group-title="Radio",Kuwait Easy
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,69,400,69,
+#EXTINF:0 group-title="Radio",Kuwait FM
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,67,500,67,
+#EXTINF:0 group-title="Radio",Kuwait Super
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,57,600,57,
+#EXTINF:0 group-title="Radio",Kuwait Classical
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,71,700,71,
+#EXTINF:0 group-title="Radio",Kuwait Shaabyia
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,59,800,59,
+#EXTINF:0 group-title="Radio",OFM
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,47,900,47,
+#EXTINF:0 group-title="Radio",Kuwait_Radio_1
+rtsp://@satip:554/?src=1&freq=11054&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,44,1000,44,
+#EXTINF:0 group-title="TV",beIN Sports 6 HD
+rtsp://@satip:554/?src=1&freq=11055&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,451,452,450,451,
+#EXTINF:0 group-title="TV",beIN Sports 4 HD
+rtsp://@satip:554/?src=1&freq=11055&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,461,462,460,461,
+#EXTINF:0 group-title="TV",beIN Sports 8 HD
+rtsp://@satip:554/?src=1&freq=11055&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,471,472,470,471,
+#EXTINF:0 group-title="TV",beIN Sports Xtra 3
+rtsp://@satip:554/?src=1&freq=11055&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,481,482,480,481,
+#EXTINF:0 group-title="TV",beIN Sports 7 HD
+rtsp://@satip:554/?src=1&freq=11055&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,491,492,490,491,
+#EXTINF:0 group-title="TV",beIN Sports HD
+rtsp://@satip:554/?src=1&freq=11055&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,501,502,500,501,
+#EXTINF:0 group-title="TV",Alabtaal
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,769,1025,1281,769,
+#EXTINF:0 group-title="TV",Al Karma
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,770,1026,1282,770,
+#EXTINF:0 group-title="TV",Viewmedia Promo Mena
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,771,1027,1283,771,
+#EXTINF:0 group-title="TV",Al Sahat
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,772,1028,1284,772,
+#EXTINF:0 group-title="TV",Mahdi has appeared TV
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,773,1029,1285,773,
+#EXTINF:0 group-title="TV",Al Hawyah
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,774,1030,1286,774,
+#EXTINF:0 group-title="TV",Al Basira
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,776,1032,1288,776,
+#EXTINF:0 group-title="TV",LoveWorld Sat
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,787,1043,1299,787,
+#EXTINF:0 group-title="TV",Al Fady
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,788,2022,1300,788,
+#EXTINF:0 group-title="TV",Al Horreya TV
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,789,1045,1301,789,
+#EXTINF:0 group-title="TV",Almasirah Mubashar
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,790,1046,1302,790,
+#EXTINF:0 group-title="TV",Al Anwar 2
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,791,1047,1303,791,
+#EXTINF:0 group-title="TV",Misr ELBald
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,792,1048,1304,792,
+#EXTINF:0 group-title="TV",Allahdah TV
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,801,1057,1313,801,
+#EXTINF:0 group-title="TV",Logos TV
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,803,1059,1315,803,
+#EXTINF:0 group-title="TV",Koogi
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,806,1062,1318,806,
+#EXTINF:0 group-title="TV",Libya WTV HD
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,808,1064,1320,808,
+#EXTINF:0 group-title="TV",Altarek - The Way TV
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,809,1065,1321,809,
+#EXTINF:0 group-title="TV",Savior Satellite Network
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,817,1073,1329,817,
+#EXTINF:0 group-title="TV",Al Masirah TV
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,818,1074,1330,818,
+#EXTINF:0 group-title="TV",Iraq Future TV
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,48,47,49,48,
+#EXTINF:0 group-title="TV",Nour Mariam
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,824,1080,1336,824,
+#EXTINF:0 group-title="TV",Alons TV
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,832,1088,1344,832,
+#EXTINF:0 group-title="TV",Noursat Kids
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,836,1092,1348,836,
+#EXTINF:0 group-title="TV",Nour Koddass
+rtsp://@satip:554/?src=1&freq=11096&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,837,1093,1349,837,
+#EXTINF:0 group-title="TV",Al Yawm
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,42,41,43,42,
+#EXTINF:0 group-title="TV",Al Safwa
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,39,38,40,39,
+#EXTINF:0 group-title="TV",Cinema 1
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,36,35,37,36,
+#EXTINF:0 group-title="TV",Cinema 2
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,33,1534,34,33,
+#EXTINF:0 group-title="TV",OSN Series +2 HD
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,54,53,55,54,
+#EXTINF:0 group-title="TV",Series Channel HD
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,51,50,52,51,
+#EXTINF:0 group-title="TV",Fann
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,48,47,49,48,
+#EXTINF:0 group-title="TV",Music Now
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,45,44,46,45,
+#EXTINF:0 group-title="TV",DW Arabia HD
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7121,7122,7120,7121,
+#EXTINF:0 group-title="TV",Sat.TV
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7161,7162,7160,7161,
+#EXTINF:0 group-title="TV",Alkofiya
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7171,7172,7170,7171,
+#EXTINF:0 group-title="Radio",Tarabiyat Radio
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,57,56,57,
+#EXTINF:0 group-title="Radio",Alfa Khalijiyat Radio
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,59,58,59,
+#EXTINF:0 group-title="Radio",Monawaat Radio
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,65,60,65,
+#EXTINF:0 group-title="Radio",DW-A2
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7132,7130,7132,
+#EXTINF:0 group-title="Radio",DW05
+rtsp://@satip:554/?src=1&freq=11137&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7142,7140,7142,
+#EXTINF:0 group-title="TV",Sham FM
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7304,7305,101,7304,
+#EXTINF:0 group-title="TV",MBN Alhurra HD TV
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7307,7308,102,7307,
+#EXTINF:0 group-title="TV",Bin Othaimeen
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7313,7314,104,7313,
+#EXTINF:0 group-title="TV",Eritrean Satellite Television
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7315,7616,105,7315,
+#EXTINF:0 group-title="TV",Majd Feed
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7318,7319,106,7318,
+#EXTINF:0 group-title="TV",Elmehwar HD
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7321,7322,107,7321,
+#EXTINF:0 group-title="TV",Alerth-Alnabawi
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7327,4230,109,7327,
+#EXTINF:0 group-title="TV",Kaifa TV
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7336,7337,112,7336,
+#EXTINF:0 group-title="TV",Alforat HD 1
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7344,7345,115,7344,
+#EXTINF:0 group-title="TV",CNBC Arabiyah
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7347,7348,116,7347,
+#EXTINF:0 group-title="TV",Nilesat Feed
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7350,7351,117,7350,
+#EXTINF:0 group-title="TV",Badia Drama
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7353,7354,118,7353,
+#EXTINF:0 group-title="TV",Al Ma´aly
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7362,7363,121,7362,
+#EXTINF:0 group-title="Radio",ERI Radio1
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7390,130,7390,
+#EXTINF:0 group-title="Radio",ERI Radio 2
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7392,131,7392,
+#EXTINF:0 group-title="Radio",ERI Radio 3
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7393,132,7393,
+#EXTINF:0 group-title="Radio",ERI Radio 4
+rtsp://@satip:554/?src=1&freq=11137&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=34&pids=0,7394,133,7394,
+#EXTINF:0 group-title="TV",Alkahera
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7401,7402,100,7401,
+#EXTINF:0 group-title="TV",Alkanal
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7404,7405,101,7404,
+#EXTINF:0 group-title="TV",Alaskandria
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7407,7408,102,7407,
+#EXTINF:0 group-title="TV",Aldelta
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7410,7411,103,7410,
+#EXTINF:0 group-title="TV",Alsa3eed
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7413,7414,104,7413,
+#EXTINF:0 group-title="TV",Teba
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7416,7417,105,7416,
+#EXTINF:0 group-title="TV",Al Masriyah
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7419,7420,106,7419,
+#EXTINF:0 group-title="TV",Diwaniya Alentikhabia
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7422,7423,107,7422,
+#EXTINF:0 group-title="TV",Madrastna 2
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7425,7426,108,7425,
+#EXTINF:0 group-title="TV",Technical education channel
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7429,7430,109,7429,
+#EXTINF:0 group-title="TV",Sudan Basic Education
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7432,7433,110,7432,
+#EXTINF:0 group-title="TV",Sudan Secondary Education
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7435,7436,111,7435,
+#EXTINF:0 group-title="TV",Red Line
+rtsp://@satip:554/?src=1&freq=11179&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7441,7442,113,7441,
+#EXTINF:0 group-title="TV",Al Araby TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,512,650,256,512,
+#EXTINF:0 group-title="TV",Al Araby TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,513,660,257,513,
+#EXTINF:0 group-title="TV",FMI TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,514,670,258,514,
+#EXTINF:0 group-title="TV",Mekameleen TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,515,680,259,515,
+#EXTINF:0 group-title="TV",Al Karma
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,516,690,260,516,
+#EXTINF:0 group-title="TV",GEM TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,517,700,261,517,
+#EXTINF:0 group-title="TV",GEM Kurd
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,518,710,262,518,
+#EXTINF:0 group-title="TV",Med Music
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,519,720,263,519,
+#EXTINF:0 group-title="TV",Sterk TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,520,730,266,520,
+#EXTINF:0 group-title="TV",Al Aqariya
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,521,740,267,521,
+#EXTINF:0 group-title="TV",Fadak TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,523,760,269,523,
+#EXTINF:0 group-title="TV",Lualua TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,524,770,270,524,
+#EXTINF:0 group-title="TV",Logos TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,525,780,271,525,
+#EXTINF:0 group-title="TV",Iraq Today
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,531,840,277,531,
+#EXTINF:0 group-title="TV",Sajaya TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,533,860,279,533,
+#EXTINF:0 group-title="TV",Jordan Alhurra
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,534,870,280,534,
+#EXTINF:0 group-title="TV",Alkadhmy
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,535,880,281,535,
+#EXTINF:0 group-title="TV",JNC
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,536,890,282,536,
+#EXTINF:0 group-title="TV",RTVi Europe
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,537,900,283,537,
+#EXTINF:0 group-title="TV",Salah el-Din
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,538,910,284,538,
+#EXTINF:0 group-title="TV",Almasalah
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,539,920,285,539,
+#EXTINF:0 group-title="TV",Albaeenah Iraq
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,621,622,412,621,
+#EXTINF:0 group-title="TV",Dua Channel
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,641,642,414,641,
+#EXTINF:0 group-title="TV",Minhaj TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,711,712,421,711,
+#EXTINF:0 group-title="TV",Al Alam Syria TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,731,732,423,731,
+#EXTINF:0 group-title="TV",Press TV
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,761,762,426,761,
+#EXTINF:0 group-title="TV",Alnaeem TV HD
+rtsp://@satip:554/?src=1&freq=11636&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,791,792,429,791,
+#EXTINF:0 group-title="TV",Al Jazeera HD
+rtsp://@satip:554/?src=1&freq=12520&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,601,810,151,601,
+#EXTINF:0 group-title="TV",Mubasher HD
+rtsp://@satip:554/?src=1&freq=12520&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,602,820,152,602,
+#EXTINF:0 group-title="TV",Al Jazeera English HD
+rtsp://@satip:554/?src=1&freq=12520&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,603,830,153,603,
+#EXTINF:0 group-title="TV",Al Jazeera Documentary HD
+rtsp://@satip:554/?src=1&freq=12520&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,604,840,154,604,
+#EXTINF:0 group-title="TV",Al Jazeera Mubasher 2 HD
+rtsp://@satip:554/?src=1&freq=12520&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,605,850,155,605,
+#EXTINF:0 group-title="TV",Al Rayyan TV HD
+rtsp://@satip:554/?src=1&freq=12520&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,610,900,160,610,
+#EXTINF:0 group-title="TV",Al Rayyan Al Qadeem HD
+rtsp://@satip:554/?src=1&freq=12520&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,611,910,161,214,
+#EXTINF:0 group-title="TV",Iraqia News HD
+rtsp://@satip:554/?src=1&freq=12562&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7201,7202,101,7201,
+#EXTINF:0 group-title="TV",Iraqia News
+rtsp://@satip:554/?src=1&freq=12562&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7203,7204,102,7203,
+#EXTINF:0 group-title="TV",Iraqia Turkuman
+rtsp://@satip:554/?src=1&freq=12562&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7209,7210,105,7209,
+#EXTINF:0 group-title="TV",Iraqia Kurd
+rtsp://@satip:554/?src=1&freq=12562&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7211,7212,106,7211,
+#EXTINF:0 group-title="TV",Iraqia Sport HD
+rtsp://@satip:554/?src=1&freq=12562&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7213,7214,107,7213,
+#EXTINF:0 group-title="TV",Iraqia Entertainment HD
+rtsp://@satip:554/?src=1&freq=12562&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7217,7223,109,7217,
+#EXTINF:0 group-title="TV",Iraqi Education
+rtsp://@satip:554/?src=1&freq=12562&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7244,7245,113,7244,
+#EXTINF:0 group-title="TV",Iraqia Syriac HD
+rtsp://@satip:554/?src=1&freq=12562&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7240,7242,120,7240,
+#EXTINF:0 group-title="Radio",Radio Al-Iraqia
+rtsp://@satip:554/?src=1&freq=12562&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7219,110,7219,
+#EXTINF:0 group-title="Radio",Radio AI-Forqan
+rtsp://@satip:554/?src=1&freq=12562&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7220,111,7220,
+#EXTINF:0 group-title="Radio",Radio Baghdad
+rtsp://@satip:554/?src=1&freq=12562&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7221,112,7221,
+#EXTINF:0 group-title="Radio",Iraqi interior radio
+rtsp://@satip:554/?src=1&freq=12562&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,7227,115,7227,
+#EXTINF:0 group-title="TV",beIN Sports 9 HD
+rtsp://@satip:554/?src=1&freq=12604&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,511,512,510,511,
+#EXTINF:0 group-title="TV",beIN Sports News HD
+rtsp://@satip:554/?src=1&freq=12604&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,515,680,257,515,
+#EXTINF:0 group-title="TV",beIN Sports Max 1 HD
+rtsp://@satip:554/?src=1&freq=12604&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,451,452,450,451,
+#EXTINF:0 group-title="TV",beIN Sports Xtra 1 HD
+rtsp://@satip:554/?src=1&freq=12604&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,481,482,480,481,
+#EXTINF:0 group-title="TV",beIN Sports Xtra 2 HD
+rtsp://@satip:554/?src=1&freq=12604&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,491,492,490,491,
+#EXTINF:0 group-title="TV",beIN Sports Max 6 HD Arabic
+rtsp://@satip:554/?src=1&freq=12604&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,531,,530,531,
+#EXTINF:0 group-title="Radio",Radio Contact FR.
+rtsp://@satip:554/?src=1&freq=12620&pol=V&msys=DVBS&mtype=QPSK&sr=890&plts=off&ro=0.35&fec=12&pids=0,40,7000,40,
+#EXTINF:0 group-title="Radio",MAXIMUM.
+rtsp://@satip:554/?src=1&freq=12620&pol=V&msys=DVBS&mtype=QPSK&sr=890&plts=off&ro=0.35&fec=12&pids=0,50,7100,50,
+#EXTINF:0 group-title="Radio",Bel RTL.
+rtsp://@satip:554/?src=1&freq=12620&pol=V&msys=DVBS&mtype=QPSK&sr=890&plts=off&ro=0.35&fec=12&pids=0,60,7200,60,
+#EXTINF:0 group-title="Radio",
+rtsp://@satip:554/?src=1&freq=12621&pol=V&msys=DVBS&mtype=QPSK&sr=256&plts=off&ro=0.35&fec=12&pids=0,769,257,513,
+#EXTINF:0 group-title="TV",Musawa TV
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,2982,2983,2981,2982,
+#EXTINF:0 group-title="TV",Palestine News
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,2992,2993,2991,2992,
+#EXTINF:0 group-title="TV",Maan TV
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,3322,3323,3321,3322,
+#EXTINF:0 group-title="TV",Palestine LIVE
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,3332,3333,3331,3332,
+#EXTINF:0 group-title="TV",PSC - Palestinian Satellite Channel
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,3352,3353,3351,3352,
+#EXTINF:0 group-title="TV",Awdeh
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,3362,3363,34,3362,
+#EXTINF:0 group-title="TV",Awdeh
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,3372,3373,3371,3372,
+#EXTINF:0 group-title="TV",Palestine Sport
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,3432,3433,3431,3432,
+#EXTINF:0 group-title="TV",Al Araby TV HD
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,3802,3803,3801,3802,
+#EXTINF:0 group-title="TV",GSN7 TV
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,3832,3833,3831,3832,
+#EXTINF:0 group-title="TV",Elfadjer Drama DZ
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,3842,3843,3841,3842,
+#EXTINF:0 group-title="TV",Alkeraza TV
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,3852,3853,3851,3852,
+#EXTINF:0 group-title="TV",Jabril TV
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,3872,3873,3871,3872,
+#EXTINF:0 group-title="TV",Alafasy
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,3892,3893,3891,3892,
+#EXTINF:0 group-title="Radio",Voice of Palestine
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5001,5201,5101,
+#EXTINF:0 group-title="Radio",Palestine Quraan
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5003,5203,5103,
+#EXTINF:0 group-title="Radio",Pal Quraan 2
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5004,5204,5104,
+#EXTINF:0 group-title="Radio",Nablus Radio
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5005,5205,5105,
+#EXTINF:0 group-title="Radio",Athan Tulkarem
+rtsp://@satip:554/?src=1&freq=12646&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,5006,5206,5106,
+#EXTINF:0 group-title="TV",EUTELSAT 8W A M6-05 CH1 RM
+rtsp://@satip:554/?src=1&freq=12655&pol=V&msys=DVBS2&mtype=8PSK&sr=5000&plts=off&ro=0.35&fec=56&pids=0,36,42,32,8190,
+#EXTINF:0 group-title="TV",El Sharq
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1431,1432,1430,1431,
+#EXTINF:0 group-title="TV",Yemen Documentary
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1441,1442,1440,1441,
+#EXTINF:0 group-title="TV",Mekameleen TV
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1451,1452,1450,1451,
+#EXTINF:0 group-title="TV",Yemen Education TV
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1461,1462,1460,1461,
+#EXTINF:0 group-title="TV",Suroyo TV
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1471,1472,1470,1471,
+#EXTINF:0 group-title="TV",Alyaum TV
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1481,1482,1480,1481,
+#EXTINF:0 group-title="TV",Yemen TV
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1491,1492,1490,1491,
+#EXTINF:0 group-title="TV",Yemen Today
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1501,1502,1500,1501,
+#EXTINF:0 group-title="TV",Sheba TV
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1511,1512,1510,1511,
+#EXTINF:0 group-title="TV",Aden
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1521,1522,1520,1521,
+#EXTINF:0 group-title="TV",El Eiman TV
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1531,1532,1530,1531,
+#EXTINF:0 group-title="TV",Watan TV Egypt
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1541,1542,1540,1541,
+#EXTINF:0 group-title="TV",I24 News Arabic
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1571,1572,1570,1571,
+#EXTINF:0 group-title="TV",Minbij TV
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1581,1582,1580,1581,
+#EXTINF:0 group-title="TV",Tanasuh Education TV
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1591,1592,1590,1591,
+#EXTINF:0 group-title="TV",Lybia Ifta TV
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1601,1602,1600,1601,
+#EXTINF:0 group-title="TV",AlShaoub TV
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1611,1612,1610,1611,
+#EXTINF:0 group-title="TV",Alqanat 9 
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1641,1642,1640,1641,
+#EXTINF:0 group-title="TV",KNN HD
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1651,1652,1650,1651,
+#EXTINF:0 group-title="TV",Rudaw TV
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1661,1662,1660,1661,
+#EXTINF:0 group-title="TV",Al Dawa
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1701,1702,1700,1701,
+#EXTINF:0 group-title="Radio",YEMEN Radio
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1551,1550,1551,
+#EXTINF:0 group-title="Radio",Radio Sawt El Shaab
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1622,1620,1622,
+#EXTINF:0 group-title="Radio",Radio 21 September
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1631,1630,1631,
+#EXTINF:0 group-title="Radio",Libya Ifta Radio
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1672,1670,1672,
+#EXTINF:0 group-title="Radio",ROJAVA FM
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1682,1680,1682,
+#EXTINF:0 group-title="Radio",Misk FM
+rtsp://@satip:554/?src=1&freq=12685&pol=H&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=78&pids=0,1692,1690,1692,
+#EXTINF:0 group-title="TV",Kurdmax Show TV
+rtsp://@satip:554/?src=1&freq=12729&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,7501,7502,101,7501,
+#EXTINF:0 group-title="TV",Nilesat PROMO
+rtsp://@satip:554/?src=1&freq=12729&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,5707,5708,103,5707,
+#EXTINF:0 group-title="TV",Libya Sport 1 HD
+rtsp://@satip:554/?src=1&freq=12729&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,7507,7508,104,7507,
+#EXTINF:0 group-title="TV",Libya ALrasmia TV
+rtsp://@satip:554/?src=1&freq=12729&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,7514,7515,106,7514,
+#EXTINF:0 group-title="TV",Al Mehwer TV
+rtsp://@satip:554/?src=1&freq=12729&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,7518,7519,107,7518,
+#EXTINF:0 group-title="TV",Bahrain HD
+rtsp://@satip:554/?src=1&freq=12729&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,7322,7323,7321,7322,
+#EXTINF:0 group-title="TV",Bahrain TV
+rtsp://@satip:554/?src=1&freq=12729&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,7332,7333,7331,7332,
+#EXTINF:0 group-title="TV",Bahrain International
+rtsp://@satip:554/?src=1&freq=12729&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,7342,7343,7341,7342,
+#EXTINF:0 group-title="TV",Hala London
+rtsp://@satip:554/?src=1&freq=12729&pol=H&msys=DVBS2&mtype=8PSK&sr=27500&plts=off&ro=0.35&fec=23&pids=0,7362,7363,7361,7362,
 #EXTINF:0 group-title="TV",Al Hadath
 rtsp://@satip:554/?src=1&freq=11471&pol=V&msys=DVBS&mtype=QPSK&sr=27500&plts=off&ro=0.35&fec=56&pids=0,201,202,200,201,
 #EXTINF:0 group-title="TV",Al Arabiya
